@@ -12,6 +12,16 @@ The goal is to classify waste images into **Organic (O)** and **Recyclable (R)**
 - `reports/` → Weekly reports + screenshots
 - `src/` → Python scripts for preprocessing and modeling
 
+  📑 Is file me ye libraries hain:
+
+numpy → numerical operations
+pandas → data handling
+matplotlib → plotting
+seaborn → advanced visualization
+Pillow → image handling
+scikit-learn → ML algorithms (later use)
+tensorflow & keras → deep learning models (CNN etc.)
+
 ## 🚀 How to Run
 1. Open notebooks in Google Colab
 2. Upload dataset (`archive.zip`) from Kaggle
